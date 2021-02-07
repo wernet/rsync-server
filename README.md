@@ -1,5 +1,7 @@
 ## rsync-server
 
+Warning: this is in test mode. This line will be removed once is has been tested.
+
 A `rsyncd`/`sshd` server in Docker. You know, for moving files.
 
 Based on https://github.com/axiom-data-science/rsync-server.
