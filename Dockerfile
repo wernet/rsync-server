@@ -1,5 +1,5 @@
-FROM debian:buster
-MAINTAINER Kyle Wilcox <kyle@axiomdatascience.com>
+FROM arm64v8/debian:latest
+MAINTAINER Bill Wernet <bill@billwernet.com>
 ENV DEBIAN_FRONTEND noninteractive
 ENV LANG C.UTF-8
 ENV NOTVISIBLE "in users profile"
