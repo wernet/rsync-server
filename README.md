@@ -2,6 +2,12 @@
 
 A `rsyncd`/`sshd` server in Docker. You know, for moving files.
 
+Based on https://github.com/axiom-data-science/rsync-server.
+
+For the docker image, see wernet/rsync-server on hub.docker.com.
+
+Base image is arm64v8/debian. 
+
 
 ### quickstart
 
